@@ -1,0 +1,10 @@
+commands to push
+git init
+git status
+git add .
+git commit -m "First commit"
+git config --global user.email "245122748046@mvsrec.edu.in"
+git config --global user.name "rithika748046"
+git remote add origin "https://github.com/rithika748046/app1.git"
+git push origin master
+
